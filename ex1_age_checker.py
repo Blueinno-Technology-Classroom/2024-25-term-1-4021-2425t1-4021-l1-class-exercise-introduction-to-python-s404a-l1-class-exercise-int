@@ -28,12 +28,3 @@
 #     print('x is < 2')
 # else:
 #     print('x is >= 2')
-
-age = int(input("Enter your age: "))
-
-if age <= 18:
-    print("You are a teenager.")
-if 18 < age < 65:
-    print("you are an Adult")
-if age > 65:
-    print("you are an elderly")
